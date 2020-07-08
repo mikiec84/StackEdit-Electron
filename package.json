@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/ajf-/StackEdit-Electron#readme",
   "devDependencies": {
-    "electron-packager": "^5.2.0",
+    "electron-packager": "^15.0.0",
     "electron-prebuilt": "^0.36.0"
   },
   "dependencies": {
